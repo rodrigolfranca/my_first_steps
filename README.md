@@ -13,4 +13,4 @@ git push -u origin main
 4-
 serei_ignorado.txt
 
-5-
+5-teste~
